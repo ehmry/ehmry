@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="21600" version="1.1">
+  <g transform="scale(100)">
+    <polygon points="0 0, 0 216, 2 216, 2 216, 2 0" fill="#009736"/>
+    <polygon points="4 0, 4 216, 6 216, 6 216, 6 0" fill="#000000"/>
+    <polygon points="0 0, 3 4, 6 0" fill="#EE2A35"/>
+  </g>
+</svg>
